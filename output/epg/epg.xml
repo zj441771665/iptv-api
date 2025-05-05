@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250505063245 +0800">
+<tv date="20250505102009 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -28290,6 +28290,12 @@
 	<programme channel="黑莓动画" start="20250505112700 +0800" stop="20250505125400 +0800">
 		<title lang="zh">汪汪队立大功大电影2：超能大冒险</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250505125400 +0800" stop="20250505143600 +0800">
+		<title lang="zh">天空的遇难船 中文版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250505143600 +0800" stop="20250505162900 +0800">
+		<title lang="zh">业火的向日葵 日语版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -28310,6 +28316,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250505101600 +0800" stop="20250505122900 +0800">
 		<title lang="zh">还是觉得你最好2</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250505122900 +0800" stop="20250505143900 +0800">
+		<title lang="zh">一代宗师</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250505143900 +0800" stop="20250505161000 +0800">
+		<title lang="zh">仙剑奇侠传前传：酒剑仙</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -28944,6 +28956,66 @@
 	<channel id="苏州社会经济">
 		<display-name lang="zh">苏州社会经济</display-name>
 	</channel>
+	<programme channel="苏州社会经济" start="20250505000000 +0800" stop="20250505001800 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505001800 +0800" stop="20250505061200 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505061200 +0800" stop="20250505071500 +0800">
+		<title lang="zh">寰宇地理</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505071500 +0800" stop="20250505074600 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505074600 +0800" stop="20250505082500 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505082500 +0800" stop="20250505111500 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505111500 +0800" stop="20250505120000 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505120000 +0800" stop="20250505130500 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505130500 +0800" stop="20250505141000 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505141000 +0800" stop="20250505174300 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505174300 +0800" stop="20250505180000 +0800">
+		<title lang="zh">健康黄丝带</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505180000 +0800" stop="20250505183000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505183000 +0800" stop="20250505193000 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505193000 +0800" stop="20250505194300 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505194300 +0800" stop="20250505220000 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505220000 +0800" stop="20250505224100 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505224100 +0800" stop="20250505230100 +0800">
+		<title lang="zh">海棠花红</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505230100 +0800" stop="20250505233600 +0800">
+		<title lang="zh">传真聚焦</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505233600 +0800" stop="20250505235100 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505235100 +0800" stop="20250505235959 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
 	<channel id="苏州文化生活">
 		<display-name lang="zh">苏州文化生活</display-name>
 	</channel>
